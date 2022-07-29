@@ -5,12 +5,11 @@
 - 🌱 Estudando Data Science / Machine Learning 
 - 📫 Contate-me no email: ottogabrielbol@hotmail.com
 
-## Conecte-se e contate-me:
+## Conecte-se comigo:
 
-<div>
-  <a href="https://www.linkedin.com/in/otto-gabriel/" tarhet="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/otto-gabriel/)
 
-</div>
+[<img align="left" alt="lamartine_sl | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://medium.com/@ottogabriel)
 
 <!--
 **OttoBenevides/OttoBenevides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
