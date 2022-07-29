@@ -5,7 +5,7 @@
 - 🌱 Estudando Data Science / Machine Learning 
 - 📫 Contate-me no email: ottogabrielbol@hotmail.com
 
-## Conecte-se comigo:
+### Conecte-se comigo:
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/otto-gabriel/)
 
