@@ -1,9 +1,49 @@
 ### Olá! Eu sou o Otto Gabriel e esse é o meu repositório de Data Science / Machine Learning 
 
 
-- 🎓 Estou no último período de graduação em Engenharia Mecatrônica
-- 🌱 Estudando Data Science / Machine Learning 
-- 📫 Contate-me no email: ottogabrielbol@hotmail.com
+## Minha experiência:
+
+🌐 Tenho experiência em trabalhar com Python, SQL e suas bibliotecas para Ciência de Dados e Machine Learning<br>
+🎲 Faço projetos de ciência de dados em diversos temas <br>
+📚 Engenheiro Mecatrônico em formação (CEFET-MG) no ultimo período <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para ottogabrielbol@hotmail.com <br>
+<br>
+
+## Sobre mim:
+
+Engenheiro Mecatrônico em formação com paixão por Ciência de Dados e automação industrial. Atualmente, trabalho aplicando minha capacidade analítica e conhecimentos técnicos para garantir qualidade e eficiência nos processos. Minha rotina envolve gestão de projetos, análise crítica e implementação de melhorias contínuas, sempre com foco em otimizar resultados. Atualmente estudo ciencia de dados desenvolvendo projetos utilizando Python, SQL, Machine Learning e Databricks. 
+
+### Hard Skills:
+
+* Python (scikit-learn, pandas, numpy, matplotlib, seaborn)  
+* SQL  
+* Machine Learning (Modelos supervisionados e não supervisionados)  
+* Estatística descritiva e inferencial aplicada à análise de dados 
+* Excel e PowerBI  
+* Git & Version Control  
+<br> 
+
+### Soft Skills:
+
+* Comunicativo  
+* Trabalho em equipe  
+* Proatividade  
+* Aprendo rápido  
+* Autodidata  
+<br>
+
+## Projetos que desenvolvi:
+* Análise
+
+Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e francês intermediário.
+
+## Produção de Conteúdo:
+
+* No Medium, publico artigos sobre diversos assuntos. 
+* No GitHub, publico projetos pessoais relacionados à ciência de dados e Machine Learning.
+<br>
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+
 
 ### Conecte-se comigo:
 
